@@ -1,30 +1,30 @@
 {
   "profile": {
-    "name": "Shilpa Kuppili",
-    "title": "AI/ML Engineer",
-    "organization": "5+ Years Experience | Harrison, NJ",
+    "name": "Mustaq Sohail Shaik",
+    "title": "Full Stack Developer | Generative AI Engineer",
+    "organization": "1+ Year Experience | Washington, DC",
     "profileImage": "assets/PIC.jpg",
-    "cvPath": "assets/Shilpa_Kuppili_Resume.pdf",
+    "cvPath": "assets/Mustaq_Sohail_Resume.pdf",
     "metrics": [
-      "5+ Years Experience",
-      "22% Accuracy Improvement",
-      "40% Processing Reduction",
-      "92% Classification Accuracy"
+      "1+ Year Full Stack",
+      "RAG Systems Expert",
+      "30% Student Success Boost",
+      "AI-Driven Applications"
     ]
   },
 
   "bio": {
-    "introduction": "<span class=\"highlight\">AI/ML Engineer with 5+ years of hands-on experience</span> designing, building, and deploying machine learning models and data-driven systems. Skilled in solving real-world problems using <span class=\"highlight\">supervised and unsupervised learning, natural language processing, and deep learning techniques</span>. Strong background in <span class=\"highlight\">Python, TensorFlow, and cloud platforms like AWS, GCP, and Azure</span>. Proven track record of delivering production-ready ML solutions that improve decision-making, automate workflows, and support business goals.",
-    "background": "Expertise in <span class=\"highlight\">Machine Learning & Deep Learning</span> including supervised learning, unsupervised learning, neural networks, time series forecasting, anomaly detection, transfer learning, and ensemble methods. Advanced experience with <span class=\"highlight\">Generative AI & LLMs</span> including transformers, fine-tuning, RAG (Retrieval-Augmented Generation), LangChain, Autogen, and embedding models. Proficient in <span class=\"highlight\">Cloud & MLOps</span> using AWS (SageMaker, EC2, S3, Lambda), GCP (Vertex AI, BigQuery), Azure (Azure ML, Copilot Studio), Docker, Kubernetes, MLflow, and DVC.",
-    "researchFocus": "Specialized in <span class=\"highlight\">production-grade ML systems</span> with demonstrated success in healthcare risk prediction, behavioral health AI, document understanding, and computer vision applications. Expert in <span class=\"highlight\">prompt engineering techniques</span> including few-shot prompting, chain-of-thought reasoning, and tool use integration. Proven ability to deploy models using <span class=\"highlight\">Flask, FastAPI, TensorFlow Serving</span>, achieving <span class=\"highlight\">22% improvement in early intervention accuracy</span>, <span class=\"highlight\">40% reduction in manual processing time</span>, and <span class=\"highlight\">92% document classification accuracy</span> across enterprise-scale applications."
+    "introduction": "<span class=\"highlight\">Full Stack Developer with 1+ years of experience</span> building scalable, cloud-based, and AI-powered web applications. Skilled in <span class=\"highlight\">React.js, Next.js, Python, Node.js, and FastAPI</span> with expertise in integrating LLM and generative AI technologies, <span class=\"highlight\">Retrieval-Augmented Generation (RAG)</span>, and secure API workflows. Proven track record of delivering responsive, user-focused solutions using <span class=\"highlight\">Supabase, PostgreSQL, and AWS</span>, while ensuring performance optimization and compliance with security best practices.",
+    "background": "Expertise in <span class=\"highlight\">Full-Stack Web Development</span> including React.js, Next.js, TypeScript for modern frontend applications, and Node.js, Python, Flask, FastAPI for robust backend systems. Advanced experience with <span class=\"highlight\">Generative AI & LLMs</span> including OpenAI, Claude, Gemini, Ollama, Hugging Face, RAG (Retrieval-Augmented Generation), and advanced prompt engineering. Proficient in <span class=\"highlight\">Cloud & DevOps</span> using AWS, Azure, Vercel, Render, Docker, GitHub Actions, and CI/CD pipelines. Strong database expertise with PostgreSQL, Supabase, Firebase, and vector databases for AI applications.",
+    "researchFocus": "Specialized in <span class=\"highlight\">AI-enhanced full-stack applications</span> with demonstrated success in integrating LLM APIs, architecting RAG pipelines, and implementing context-aware workflows. Expert in <span class=\"highlight\">performance optimization</span> including API usage monitoring, caching strategies, and streaming for low-latency AI responses. Proven ability to apply <span class=\"highlight\">secure deployment practices</span> with RBAC (Role-Based Access Control), data privacy compliance, and governance policies. Experienced in mentoring and teaching, having supported <span class=\"highlight\">40+ students with 30% improvement in success rates</span> through hands-on web development instruction and personalized guidance."
   },
 
   "contact": {
-    "email": "shilpakp333@gmail.com",
-    "phone": "+1 (984) 318-4336",
-    "location": "Harrison, NJ",
-    "githubUsername": "shilpa99999",
-    "linkedin": "https://www.linkedin.com/in/shilpa-kuppili-a80ba2126/",
+    "email": "reachtomustaqsohail@gmail.com",
+    "phone": "(928) 255-7208",
+    "location": "Washington, DC",
+    "githubUsername": "mustaqsohail",
+    "linkedin": null,
     "github": null,
     "googleScholar": null,
     "twitter": null,
@@ -38,17 +38,17 @@
     {"label": "Projects", "href": "#projects"},
     {"label": "Skills", "href": "#skills"},
     {"label": "Education", "href": "#education"},
-    {"label": "Contact", "href": "mailto:shilpakp333@gmail.com"}
+    {"label": "Contact", "href": "mailto:reachtomustaqsohail@gmail.com"}
   ],
 
   "publications": [
     {
-      "id": "humana",
-      "title": "AI/ML Engineer",
-      "authors": "Humana | USA",
-      "venue": "Aug 2025 – Present",
-      "description": "<div class='impact-metrics'><span class='metric'>22% Accuracy Improvement</span><span class='metric'>40% Processing Reduction</span><span class='metric'>Healthcare ML</span><span class='metric'>NLP Pipelines</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Engineered machine learning models</strong> using scikit-learn, XGBoost, and TensorFlow to identify high-risk individuals for chronic conditions, <span class='highlight'>resulting in a 22% improvement in early intervention accuracy</span> across Medicare Advantage plans<br/>• <strong>Built NLP pipelines</strong> using Hugging Face Transformers and spaCy to extract diagnoses, medications, and symptoms from unstructured physician notes, <span class='highlight'>enabling downstream analytics</span> that supported more personalized patient care strategies<br/>• <strong>Fine-tuned domain-specific large language models (LLMs)</strong> for automating clinical summary generation and insurance claims review workflows, <span class='highlight'>reducing manual processing time by 40%</span> and improving internal audit consistency<br/>• <strong>Implemented end-to-end MLOps pipelines</strong> integrating MLflow for experiment tracking, DVC for dataset versioning, and Jenkins for automated retraining, <span class='highlight'>ensuring reproducibility and compliance</span> with HIPAA data governance standards<br/>• <strong>Monitored production-grade models</strong> using FastAPI and TensorFlow Serving on AWS SageMaker, implementing scalable CI/CD pipelines via GitHub Actions and <span class='highlight'>enabling real-time support</span> for clinical decision-making tools",
-      "image": "images/humana-logo.svg",
+      "id": "progress-solutions",
+      "title": "Jr. Full Stack Developer Intern",
+      "authors": "Progress Solutions Inc. | Plano, TX",
+      "venue": "August 2025 – Present",
+      "description": "<div class='impact-metrics'><span class='metric'>AI-Driven Apps</span><span class='metric'>RAG Pipelines</span><span class='metric'>LLM Integration</span><span class='metric'>Cloud Deployment</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed full-stack AI-driven applications</strong> integrating LLM and generative AI capabilities using React, Next.js, Python, Node.js, and FastAPI for real-world use cases, <span class='highlight'>delivering production-ready solutions</span> with modern web technologies<br/>• <strong>Built and maintained scalable web applications</strong> with responsive design, optimized performance, and seamless user experiences across desktop and mobile platforms<br/>• <strong>Integrated LLM APIs</strong> including OpenAI, Anthropic Claude, and Hugging Face with advanced prompt engineering and context-aware workflows, <span class='highlight'>enabling intelligent AI features</span> in production applications<br/>• <strong>Architected and optimized Retrieval-Augmented Generation (RAG) pipelines</strong> using vector databases such as Pinecone, Weaviate, and Supabase, <span class='highlight'>improving context accuracy and response relevance</span> for AI-powered features<br/>• <strong>Implemented performance optimization strategies</strong> including API usage monitoring, intelligent caching, and streaming responses, <span class='highlight'>achieving low-latency AI interactions</span> and enhanced user experience<br/>• <strong>Applied secure and ethical AI deployment practices</strong> by enforcing Role-Based Access Control (RBAC), data privacy compliance, and governance policies across all applications<br/>• <strong>Collaborated with cross-functional teams</strong> in an Agile environment to design, test, and deploy AI-enhanced features, ensuring quality and meeting project deadlines",
+      "image": "images/progress-solutions-logo.png",
       "links": {
         "paper": null,
         "github": null,
@@ -56,12 +56,12 @@
       }
     },
     {
-      "id": "thoughti",
-      "title": "AI Full Stack Developer",
-      "authors": "Thoughti | USA",
-      "venue": "Feb 2025 – Aug 2025",
-      "description": "<div class='impact-metrics'><span class='metric'>25% Dropout Reduction</span><span class='metric'>40% Relevance Improvement</span><span class='metric'>Azure AI</span><span class='metric'>Copilot Studio</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed AI-powered chatbot</strong> on Microsoft Azure using Copilot Studio and Bot Framework, delivering personalized behavioral health support and <span class='highlight'>reducing user dropout rates by 25%</span><br/>• <strong>Trained CLU and CQA models</strong> in Azure AI Language Studio to classify user intent across five behavioral change stages, <span class='highlight'>improving interaction relevance by 40%</span><br/>• <strong>Streamlined the AI model lifecycle</strong> and secured data workflows using Azure Foundry, <span class='highlight'>reducing deployment time by 30%</span><br/>• <strong>Designed reusable prompt templates</strong> and chaining logic to align chatbot dialogue with user behavioral stage, improving coherence and emotional relevance<br/>• <strong>Orchestrated dynamic multi-step conversation flows</strong> in Copilot Studio and integrated 3+ external APIs for personalized response generation<br/>• <strong>Constructed language understanding pipelines</strong> to detect substance use indicators and symptoms, <span class='highlight'>achieving 87% precision in early detection</span><br/>• <strong>Led the development of an automated proposal drafting tool</strong> using Azure Foundry, Microsoft Fabric, and Autogen, reducing proposal creation time significantly<br/>• <strong>Architected a five-phase agent framework</strong> using Autogen and RAG for automated document analysis, <span class='highlight'>improving accuracy and speed by 50%</span><br/>• <strong>Mitigated LLM hallucinations by 35%</strong> and inference costs by 40% using tiered deployment of GPT-4.1 and o4-mini with prompt optimization",
-      "image": "images/thoughti-logo.png",
+      "id": "nau-teaching",
+      "title": "Teaching Assistant – Web Technologies",
+      "authors": "Northern Arizona University | Flagstaff, AZ",
+      "venue": "January 2025 – May 2025",
+      "description": "<div class='impact-metrics'><span class='metric'>40+ Students Mentored</span><span class='metric'>30% Success Improvement</span><span class='metric'>Curriculum Modernization</span><span class='metric'>React Integration</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Mentored 40+ students</strong> in developing responsive, accessible web applications using HTML, CSS, JavaScript, and modern best practices, <span class='highlight'>significantly improving their technical skills and confidence</span><br/>• <strong>Facilitated weekly live sessions and conducted 1-on-1 troubleshooting</strong> to clarify frontend concepts (UI/UX, DOM manipulation) and backend principles (API integration, server logic), <span class='highlight'>resulting in a 30% improvement in student success rates</span><br/>• <strong>Designed and delivered hands-on technical examples and lab exercises</strong> covering DOM manipulation, API requests, browser compatibility, and responsive design principles, making complex concepts accessible to beginners<br/>• <strong>Reviewed and graded 100+ assignments and capstone projects</strong>, providing actionable, detailed feedback that helped students understand mistakes and improve their coding practices<br/>• <strong>Collaborated with faculty to update and modernize the curriculum</strong>, adding React fundamentals, Git/GitHub version control, and industry-standard workflows, <span class='highlight'>bridging the gap between academic learning and industry expectations</span><br/>• <strong>Supported students in debugging, optimizing, and deploying projects</strong>, enhancing their problem-solving skills and preparing them for real-world development challenges",
+      "image": "images/northern-arizona-university-logo.png",
       "links": {
         "paper": null,
         "github": null,
@@ -69,51 +69,12 @@
       }
     },
     {
-      "id": "techcomb",
-      "title": "ML Intern",
-      "authors": "TechComb | Texas",
-      "venue": "Aug 2024 – Dec 2024",
-      "description": "<div class='impact-metrics'><span class='metric'>YOLOv8 Integration</span><span class='metric'>25% Inference Speed</span><span class='metric'>Computer Vision</span><span class='metric'>LLM Integration</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Engineered and implemented an LLM integrated bird detection and classification system</strong> using YOLOv8 for real-time bird localization and EfficientNet B0 for precise species identification<br/>• <strong>Pioneered LLM integration</strong> such as GPT-2 to provide detailed species-specific deterrent strategies, enhancing the system's practical utility<br/>• <strong>Integrated Gradio and optimized the end-to-end pipeline</strong>, <span class='highlight'>reducing inference time by 25%</span> and creating an intuitive user interface for non-technical users<br/>• <strong>Implemented real-time object detection</strong> using state-of-the-art YOLO architecture, achieving high accuracy in bird species classification across diverse environmental conditions<br/>• <strong>Developed comprehensive evaluation metrics</strong> and validation procedures to ensure model performance met production requirements",
-      "image": "images/techcomb-logo.png",
-      "links": {
-        "paper": null,
-        "github": null,
-        "status": null
-      }
-    },
-    {
-      "id": "zsanalytics",
-      "title": "AI/ML Intern",
-      "authors": "ZSAnalytics | New York",
-      "venue": "May 2024 – Aug 2024",
-      "description": "<div class='impact-metrics'><span class='metric'>Custom GPT Model</span><span class='metric'>Mistral LLM</span><span class='metric'>NLP Tasks</span><span class='metric'>Knowledge Extraction</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Built a Custom GPT Model</strong> and fine-tuned transformer-based language models on enterprise call transcript data to extract relevant knowledge and summarize the transcript<br/>• <strong>Implemented a Mistral LLM Chatbot</strong> for varied NLP tasks to generate coherent and contextually relevant information across multiple business use cases<br/>• <strong>Developed end-to-end NLP pipelines</strong> for automatic summarization, entity extraction, and sentiment analysis from unstructured conversational data<br/>• <strong>Optimized model performance</strong> through prompt engineering and fine-tuning strategies, improving response quality and business relevance<br/>• <strong>Collaborated with cross-functional teams</strong> to integrate LLM capabilities into existing analytics workflows and dashboards",
-      "image": "images/zsanalytics-logo.png",
-      "links": {
-        "paper": null,
-        "github": null,
-        "status": null
-      }
-    },
-    {
-      "id": "motherson",
-      "title": "Senior Software Engineer",
-      "authors": "Motherson Technology Services Limited | Bangalore, India",
-      "venue": "Jun 2022 – Aug 2023",
-      "description": "<div class='impact-metrics'><span class='metric'>92% Accuracy</span><span class='metric'>CNN + LSTM</span><span class='metric'>Document AI</span><span class='metric'>Feature Selection</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Applied recursive feature selection techniques</strong> for document understanding using LLM-based prompts, enhancing model interpretability and performance<br/>• <strong>Developed an AI-powered document classification model</strong>, automating the categorization of records with <span class='highlight'>an accuracy of 92%</span> using a combination of CNN and LSTM architectures<br/>• <strong>Implemented end-to-end document processing pipeline</strong> including preprocessing, feature extraction, model training, and deployment to production systems<br/>• <strong>Optimized deep learning architectures</strong> through hyperparameter tuning and architecture search, achieving significant improvements in classification performance<br/>• <strong>Collaborated with enterprise teams</strong> to deploy models that automated manual document workflows, resulting in substantial time and cost savings",
-      "image": "images/motherson-logo.png",
-      "links": {
-        "paper": null,
-        "github": null,
-        "status": null
-      }
-    },
-    {
-      "id": "tcs",
-      "title": "Software Engineer",
-      "authors": "Tata Consultancy Services | Bangalore, India",
-      "venue": "Dec 2018 – Jun 2022",
-      "description": "<div class='impact-metrics'><span class='metric'>15% Response Reduction</span><span class='metric'>30% Recommendation Boost</span><span class='metric'>ResNet50</span><span class='metric'>Conversational AI</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Created a conversational AI chatbot</strong> for financial advice, <span class='highlight'>reducing customer query response time by 15%</span> and improving customer satisfaction scores<br/>• <strong>Designed an image classification pipeline</strong> using pre-trained ResNet50 model to categorize fashion products into various styles, <span class='highlight'>increasing product recommendation accuracy by 30%</span><br/>• <strong>Implemented transfer learning techniques</strong> to adapt pre-trained models for domain-specific classification tasks with limited labeled data<br/>• <strong>Built and deployed RESTful APIs</strong> for serving ML models in production, ensuring scalability and reliability for high-traffic applications<br/>• <strong>Developed data preprocessing and augmentation pipelines</strong> to improve model robustness and generalization across diverse product categories<br/>• <strong>Collaborated with product and business teams</strong> to understand requirements and deliver ML solutions that directly supported revenue-generating features",
-      "image": "images/tcs-logo.svg",
+      "id": "smart-internz",
+      "title": "Salesforce Developer Intern",
+      "authors": "Smart Internz | Remote",
+      "venue": "August 2022 – October 2022",
+      "description": "<div class='impact-metrics'><span class='metric'>Apex Development</span><span class='metric'>Lightning Web Components</span><span class='metric'>API Integration</span><span class='metric'>Business Automation</span></div><br/><strong>Key Achievements:</strong><br/>• <strong>Developed business automation workflows</strong> using Salesforce Flows and Validation Rules to streamline business processes and improve data quality across the CRM platform<br/>• <strong>Wrote Apex triggers and comprehensive test classes</strong> to enforce custom business logic within Salesforce CRM, <span class='highlight'>ensuring code coverage and reliability</span> for production deployments<br/>• <strong>Built and deployed Lightning Web Components (LWC)</strong> to extend CRM UI functionality, creating modern, responsive user interfaces that enhanced user experience and productivity<br/>• <strong>Integrated third-party APIs into Salesforce</strong> using REST API endpoints, enabling seamless data exchange and extending CRM capabilities with external services<br/>• <strong>Collaborated with business stakeholders</strong> to understand requirements and translate them into technical solutions, demonstrating strong communication and problem-solving skills<br/>• <strong>Gained hands-on experience with enterprise CRM development</strong>, understanding the full development lifecycle from requirements gathering to testing and deployment",
+      "image": "images/smart-internz-logo.svg",
       "links": {
         "paper": null,
         "github": null,
@@ -123,357 +84,228 @@
   ],
 
   "skills": {
-    "programmingLanguages": [
-      "Python (Primary ML/AI Development Language)",
-      "Java (Enterprise Applications and Backend Systems)",
-      "C (System Programming and Performance-Critical Code)",
-      "C++ (High-Performance Computing and Optimization)",
-      "R (Statistical Computing and Data Analysis)",
-      "SQL (Database Queries and Data Manipulation)",
-      "TypeScript (Full-Stack Development and Type Safety)",
-      "JavaScript (Frontend Development and Node.js)",
-      "HTML/CSS (Web Development and Styling)",
-      "Bash/Shell Scripting (Automation and DevOps)"
+    "frontendDevelopment": [
+      "HTML5 (Semantic Markup and Accessibility)",
+      "CSS3 (Flexbox, Grid, Animations, Transitions)",
+      "JavaScript (ES6+, Async/Await, Promises)",
+      "TypeScript (Type Safety and Modern JavaScript)",
+      "React.js (Hooks, Context API, Component Architecture)",
+      "Next.js (Server-Side Rendering, Static Generation)",
+      "Responsive Web Design (Mobile-First Approach)",
+      "Bootstrap (Rapid UI Development)",
+      "Tailwind CSS (Utility-First CSS Framework)",
+      "DOM Manipulation (Event Handling, Dynamic Content)",
+      "Browser Compatibility and Cross-Browser Testing",
+      "Web Accessibility (WCAG Standards, ARIA)",
+      "Performance Optimization (Code Splitting, Lazy Loading)",
+      "Progressive Web Apps (PWA)",
+      "UI/UX Best Practices"
     ],
-    "mlDeepLearning": [
-      "Supervised Learning (Classification, Regression)",
-      "Unsupervised Learning (Clustering, Dimensionality Reduction)",
-      "Neural Networks (Feedforward, Convolutional, Recurrent)",
-      "Deep Learning (CNN, LSTM, Transformer Architectures)",
-      "Time Series Forecasting (ARIMA, Prophet, LSTM)",
-      "Anomaly Detection (Isolation Forest, Autoencoders)",
-      "Transfer Learning (Pre-trained Model Fine-Tuning)",
-      "Active Learning (Human-in-the-Loop Training)",
-      "Semi-Supervised Learning (Pseudo-Labeling)",
-      "Reinforcement Learning (Q-Learning, Policy Gradient)",
-      "Multi-task Learning (Shared Representations)",
-      "Meta-Learning (Learning to Learn)",
-      "Curriculum Learning (Progressive Training)",
-      "Model Evaluation (Cross-Validation, Metrics)",
-      "Feature Engineering (Selection, Extraction, Creation)",
-      "Hyperparameter Tuning (Grid Search, Bayesian Optimization)",
-      "Ensemble Methods (Bagging, Boosting, Stacking)",
-      "Data Augmentation (Synthetic Data Generation)",
-      "Imbalanced Data Handling (SMOTE, Class Weighting)",
-      "Model Compression (Pruning, Quantization)",
-      "Knowledge Distillation (Teacher-Student Models)",
-      "Neural Architecture Search (AutoML)",
-      "Federated Learning (Distributed Training)"
+    "backendDevelopment": [
+      "Node.js (Server-Side JavaScript)",
+      "Express.js (RESTful API Development)",
+      "Python (Backend Development and Scripting)",
+      "Flask (Lightweight Python Web Framework)",
+      "FastAPI (Modern Python API Framework)",
+      "REST API Design and Development",
+      "API Security (Authentication, Authorization)",
+      "Middleware and Request Handling",
+      "Error Handling and Logging",
+      "Server-Side Validation",
+      "Rate Limiting and Throttling",
+      "Caching Strategies (Redis, In-Memory)",
+      "Session Management",
+      "Cookie Handling",
+      "WebSocket Implementation (Real-Time Communication)"
     ],
-    "genaiLLMs": [
-      "Generative AI (Text, Image, and Multi-modal Generation)",
-      "Large Language Models (GPT, Claude, Gemini, Mistral)",
-      "Transformers (BERT, GPT, T5, RoBERTa)",
-      "Fine-Tuning (LoRA, QLoRA, Full Fine-Tuning)",
-      "Retrieval-Augmented Generation (RAG Pipelines)",
-      "LangChain (LLM Application Framework)",
-      "Autogen (Multi-Agent AI Systems)",
-      "Tokenization (BPE, WordPiece, SentencePiece)",
-      "Embedding Models (Sentence Transformers, OpenAI Embeddings)",
-      "Context Optimization (Prompt Compression, Context Windows)",
-      "Few-shot Prompting (In-Context Learning)",
-      "Chain-of-Thought Reasoning (Step-by-Step Problem Solving)",
-      "Instruction Tuning (Alignment and Task-Specific Training)",
-      "Tool Use Integration (Function Calling, API Integration)",
-      "OpenAI API (GPT-4, GPT-3.5, Embeddings)",
-      "Hugging Face Transformers (Pre-trained Models Library)",
-      "Claude (Anthropic AI Assistant)",
-      "ChatGPT (Conversational AI Interface)",
-      "Gemini (Google's Multimodal AI)",
-      "Google NotebookLM (AI-Powered Research)",
-      "Cursor (AI-Powered Code Editor)",
-      "Copilot Studio (Microsoft Low-Code AI Development)"
-    ],
-    "mlFrameworks": [
-      "PyTorch (Deep Learning Framework)",
-      "TensorFlow (End-to-End ML Platform)",
-      "Keras (High-Level Neural Networks API)",
-      "Scikit-learn (Classical ML Algorithms)",
-      "Statsmodels (Statistical Modeling)",
-      "XGBoost (Gradient Boosting Framework)",
-      "LightGBM (Light Gradient Boosting)",
-      "CatBoost (Gradient Boosting on Decision Trees)",
-      "H2O.ai (AutoML and Distributed ML)",
-      "Ray (Distributed Computing for ML)",
-      "Optuna (Hyperparameter Optimization)",
-      "NLTK (Natural Language Toolkit)",
-      "SpaCy (Industrial-Strength NLP)",
-      "OpenCV (Computer Vision Library)",
-      "Dlib (Face Recognition and Detection)",
-      "Albumentations (Image Augmentation)",
-      "imgaug (Image Augmentation Library)",
-      "Matplotlib (Data Visualization)",
-      "Seaborn (Statistical Data Visualization)",
-      "Plotly (Interactive Visualizations)"
-    ],
-    "computerVision": [
-      "Object Detection (YOLO, YOLOv8, Faster R-CNN, SSD)",
-      "Image Classification (ResNet, EfficientNet, Vision Transformers)",
-      "Image Segmentation (U-Net, Mask R-CNN, Semantic Segmentation)",
-      "Feature Extraction (SIFT, SURF, HOG, ORB)",
-      "Image Preprocessing and Augmentation",
-      "OCR (Optical Character Recognition, Tesseract, PaddleOCR)",
-      "Real-time Video Processing and Analysis",
-      "Multi-object Tracking (SORT, DeepSORT)",
-      "Face Recognition and Detection",
-      "Edge Detection (Canny, Sobel)",
-      "Image Enhancement and Restoration",
-      "3D Computer Vision (Point Clouds, Depth Estimation)",
-      "Vision Transformers (ViT, DETR)",
-      "Image-to-Image Translation (Pix2Pix, CycleGAN)"
-    ],
-    "nlpTechniques": [
-      "Named Entity Recognition (NER)",
-      "Sentiment Analysis and Opinion Mining",
-      "Text Classification and Categorization",
-      "Intent Detection and Classification",
-      "Entity Extraction and Relation Extraction",
-      "Question Answering Systems",
-      "Text Summarization (Extractive and Abstractive)",
-      "Machine Translation (Neural MT)",
-      "Topic Modeling (LDA, NMF)",
-      "Text Generation and Language Modeling",
-      "Part-of-Speech Tagging",
-      "Dependency Parsing",
-      "Coreference Resolution",
-      "Information Extraction",
-      "Document Understanding and Analysis",
-      "Semantic Search and Retrieval"
-    ],
-    "conversationalAI": [
-      "Chatbot Development and Architecture",
-      "Intent Classification and Recognition",
-      "Entity Recognition and Slot Filling",
-      "Dialogue State Tracking",
-      "Dialogue Management Systems",
-      "Response Generation (Template-based and Generative)",
-      "Natural Language Understanding (NLU)",
-      "Context Management and Memory",
-      "Multi-turn Conversation Handling",
-      "Conversational Flow Design",
-      "Microsoft Bot Framework",
-      "Azure Copilot Studio (Low-Code Bot Development)",
-      "CLU Models (Conversational Language Understanding)",
-      "CQA Models (Custom Question Answering)",
-      "Rasa Framework",
-      "Dialogflow (Google Conversational AI)"
-    ],
-    "dataEngineering": [
-      "NumPy (Numerical Computing)",
-      "Pandas (Data Manipulation and Analysis)",
-      "Dask (Parallel Computing for Larger-than-Memory Data)",
-      "PySpark (Apache Spark Python API)",
-      "Apache Spark (Large-Scale Data Processing)",
-      "Polars (High-Performance DataFrame Library)",
-      "Apache Airflow (Workflow Orchestration)",
-      "Apache Kafka (Real-Time Data Streaming)",
-      "DBT (Data Build Tool for Transformations)"
-    ],
-    "cloudMLOps": [
-      "AWS SageMaker (End-to-End ML Platform)",
-      "AWS EC2 (Elastic Compute Cloud)",
-      "AWS S3 (Object Storage)",
-      "AWS Lambda (Serverless Computing)",
-      "AWS Bedrock (Managed Foundation Models)",
-      "GCP Vertex AI (Unified ML Platform)",
-      "GCP BigQuery (Data Warehouse)",
-      "GCP Cloud Functions (Serverless)",
-      "Azure Machine Learning (ML Platform)",
-      "Azure Copilot Studio (AI Development)",
-      "Azure AI Language Studio (NLP Services)",
-      "Azure Bot Framework (Conversational AI)",
-      "Azure Foundry (AI Model Development)",
-      "Azure AI Foundry (Enterprise AI Platform)",
-      "Microsoft Fabric (Data Analytics Platform)",
-      "Docker (Containerization)",
-      "Kubernetes (Container Orchestration)",
-      "Helm (Kubernetes Package Manager)",
-      "MLflow (ML Lifecycle Management)",
-      "DVC (Data Version Control)",
-      "Weights & Biases (Experiment Tracking)",
-      "TensorBoard (Visualization for TensorFlow)",
-      "Git (Version Control)",
-      "GitHub Actions (CI/CD Automation)",
-      "Jenkins (Continuous Integration)",
-      "GitLab CI/CD (DevOps Platform)",
-      "Argo Workflows (Kubernetes-Native Workflows)",
-      "CircleCI (Continuous Integration Platform)",
-      "Terraform (Infrastructure as Code)",
-      "Ansible (Configuration Management)",
-      "Prometheus (Monitoring and Alerting)",
-      "Grafana (Metrics Visualization)"
-    ],
-    "modelOptimization": [
-      "Model Quantization (INT8, FP16, Dynamic Quantization)",
-      "Model Pruning (Structured and Unstructured)",
-      "Knowledge Distillation (Teacher-Student Transfer)",
-      "Model Compression Techniques",
-      "Batch Inference Optimization",
-      "Edge Device Deployment (TensorFlow Lite, ONNX Runtime)",
-      "Model Profiling and Performance Analysis",
-      "Inference Optimization (TensorRT, OpenVINO)",
-      "A/B Testing for ML Models",
-      "Model Monitoring and Observability",
-      "Data Drift Detection",
-      "Model Drift Detection and Remediation",
-      "Feature Store Management",
-      "Online Learning and Model Updates",
-      "Shadow Deployment and Canary Releases",
-      "Model Versioning and Registry"
-    ],
-    "healthcareCompliance": [
-      "HIPAA Compliance (Health Insurance Portability and Accountability Act)",
-      "Healthcare Data Security and Privacy",
-      "PHI Handling (Protected Health Information)",
-      "Clinical Data Standards (HL7, FHIR)",
-      "Medical Coding (ICD-10, CPT)",
-      "Healthcare Analytics and Population Health",
-      "Electronic Health Records (EHR) Systems",
-      "Clinical Decision Support Systems",
-      "Healthcare ML Model Validation",
-      "FDA Regulations for Medical AI",
-      "De-identification and Anonymization",
-      "Audit Logging and Compliance Reporting"
-    ],
-    "modelDeployment": [
-      "Flask (Lightweight Web Framework)",
-      "FastAPI (Modern API Framework)",
-      "gRPC (High-Performance RPC Framework)",
-      "ONNX (Open Neural Network Exchange)",
-      "TorchServe (PyTorch Model Serving)",
-      "TensorFlow Serving (Production ML Model Serving)",
-      "Streamlit (ML App Development)",
-      "Gradio (ML Model UI)",
-      "REST APIs (RESTful API Design)",
-      "GraphQL (Query Language for APIs)",
-      "API Rate Limiting (Traffic Management)",
-      "Caching Strategies (Redis, Memcached)"
-    ],
-    "databasesStorage": [
+    "databasesTechnologies": [
       "PostgreSQL (Relational Database)",
-      "MySQL (Open Source Relational Database)",
-      "MongoDB (Document-Oriented NoSQL)",
-      "Redis (In-Memory Data Store)",
-      "DynamoDB (AWS NoSQL Database)",
-      "Cassandra (Distributed NoSQL Database)",
-      "Elasticsearch (Search and Analytics Engine)",
-      "Neo4j (Graph Database)",
-      "Pinecone (Vector Database for Embeddings)",
-      "FAISS (Facebook AI Similarity Search)",
-      "ChromaDB (Vector Database)",
-      "Weaviate (Vector Search Engine)",
-      "Milvus (Open-Source Vector Database)",
-      "Qdrant (Vector Similarity Search Engine)",
-      "Supabase (Open Source Firebase Alternative)",
-      "HDFS (Hadoop Distributed File System)",
-      "Snowflake (Cloud Data Warehouse)",
-      "Google BigQuery (Serverless Data Warehouse)",
-      "Amazon Redshift (Data Warehouse)",
-      "Databricks (Unified Analytics Platform)",
-      "Apache Hive (Data Warehouse)",
-      "ClickHouse (Columnar Database)"
+      "SQL (Complex Queries, Joins, Subqueries)",
+      "Supabase (Backend-as-a-Service)",
+      "Firebase (Real-Time Database, Authentication)",
+      "Database Schema Design",
+      "Data Modeling and Normalization",
+      "Indexes and Query Optimization",
+      "Transactions and ACID Properties",
+      "Database Migrations",
+      "Vector Databases (Pinecone, Weaviate)",
+      "NoSQL Concepts",
+      "Database Security and Access Control",
+      "Backup and Recovery Strategies"
     ],
-    "visualization": [
-      "Power BI (Microsoft Business Intelligence)",
-      "Tableau (Interactive Data Visualization)",
-      "Looker (Business Intelligence Platform)",
-      "Matplotlib (Python Plotting Library)",
-      "Seaborn (Statistical Data Visualization)",
-      "Plotly (Interactive Graphing Library)",
-      "Dash (Python Web App Framework)"
+    "aiLLMTechnologies": [
+      "OpenAI API (GPT-4, GPT-3.5, Embeddings)",
+      "Anthropic Claude (Advanced Language Models)",
+      "Google Gemini (Multimodal AI)",
+      "Ollama (Local LLM Deployment)",
+      "Hugging Face Transformers (Pre-trained Models)",
+      "RAG (Retrieval-Augmented Generation)",
+      "Prompt Engineering (Few-Shot, Chain-of-Thought)",
+      "Context-Aware Workflows",
+      "LLM API Integration",
+      "Embedding Models and Vector Search",
+      "Semantic Search Implementation",
+      "Token Management and Optimization",
+      "Streaming Responses",
+      "LLM Fine-Tuning Concepts",
+      "AI Model Selection and Evaluation"
     ],
-    "testingQA": [
-      "Unit Testing (PyTest, unittest)",
+    "cloudDevOps": [
+      "AWS (EC2, S3, Lambda, RDS)",
+      "Azure (App Service, Functions, Storage)",
+      "Vercel (Frontend Deployment Platform)",
+      "Render (Cloud Application Platform)",
+      "Docker (Containerization)",
+      "GitHub Actions (CI/CD Automation)",
+      "Continuous Integration and Deployment",
+      "Infrastructure as Code Concepts",
+      "Environment Configuration Management",
+      "Secrets Management",
+      "Monitoring and Logging",
+      "Auto-Scaling and Load Balancing",
+      "Cloud Security Best Practices",
+      "Serverless Architecture",
+      "Deployment Strategies (Blue-Green, Canary)"
+    ],
+    "versionControlTools": [
+      "Git (Version Control System)",
+      "GitHub (Code Collaboration and Hosting)",
+      "Git Branching Strategies (Feature, Release, Hotfix)",
+      "Pull Requests and Code Review",
+      "Git Workflows (GitFlow, GitHub Flow)",
+      "Merge Conflict Resolution",
+      "VS Code (Integrated Development Environment)",
+      "VS Code Extensions and Customization",
+      "Jupyter Notebook (Interactive Computing)",
+      "Google Colab (Cloud-Based Notebooks)",
+      "Debugging Tools and Techniques",
+      "Chrome DevTools (Frontend Debugging)",
+      "Postman (API Testing and Development)",
+      "Command Line Interface (CLI) Proficiency"
+    ],
+    "securityBestPractices": [
+      "Role-Based Access Control (RBAC)",
+      "Authentication and Authorization",
+      "Data Privacy and Compliance",
+      "API Security (Rate Limiting, API Keys, OAuth)",
+      "Input Validation and Sanitization",
+      "SQL Injection Prevention",
+      "Cross-Site Scripting (XSS) Prevention",
+      "Cross-Site Request Forgery (CSRF) Protection",
+      "Secure Password Storage (Hashing, Salting)",
+      "HTTPS and SSL/TLS",
+      "JWT (JSON Web Tokens)",
+      "Session Security",
+      "CORS (Cross-Origin Resource Sharing)",
+      "Security Headers",
+      "Governance Policies and Compliance"
+    ],
+    "testingQuality": [
+      "Unit Testing (Jest, Pytest)",
       "Integration Testing",
-      "Model Testing and Validation",
-      "Data Quality Testing",
-      "A/B Testing and Experimentation",
-      "Regression Testing for ML Models",
-      "Performance Testing and Benchmarking",
+      "End-to-End Testing",
       "Test-Driven Development (TDD)",
-      "Continuous Testing in CI/CD",
-      "Model Bias and Fairness Testing",
-      "Adversarial Testing",
-      "End-to-End Testing"
+      "Debugging and Troubleshooting",
+      "Code Quality and Linting (ESLint, Pylint)",
+      "Performance Testing",
+      "Browser Testing and Compatibility",
+      "API Testing (Postman, Thunder Client)",
+      "Error Tracking and Monitoring",
+      "Code Review Best Practices"
     ],
-    "researchDevelopment": [
-      "Jupyter Notebooks (Interactive Computing)",
-      "Google Colab (Cloud-based Notebooks)",
-      "Kaggle (Data Science Competitions)",
-      "arXiv (Research Paper Repository)",
-      "Papers with Code (ML Research)",
-      "Experiment Design and Methodology",
-      "Scientific Writing and Publication",
-      "Literature Review and Research",
-      "Reproducible Research Practices",
-      "Open Source Contribution",
-      "Technical Prototyping",
-      "POC (Proof of Concept) Development"
+    "salesforceDevelopment": [
+      "Salesforce CRM (Customer Relationship Management)",
+      "Apex (Salesforce Programming Language)",
+      "Apex Triggers and Automation",
+      "Apex Test Classes and Code Coverage",
+      "Lightning Web Components (LWC)",
+      "Salesforce Flows (Process Automation)",
+      "Validation Rules (Data Quality)",
+      "SOQL (Salesforce Object Query Language)",
+      "SOSL (Salesforce Object Search Language)",
+      "REST API Integration with Salesforce",
+      "Salesforce Development Lifecycle",
+      "Salesforce Best Practices"
     ],
-    "collaborationTools": [
-      "Jira (Project Management)",
-      "Confluence (Documentation)",
-      "Slack (Team Communication)",
-      "Microsoft Teams (Collaboration Platform)",
-      "Notion (Knowledge Management)",
-      "Trello (Task Management)",
-      "Miro (Visual Collaboration)",
-      "GitHub (Code Collaboration)",
-      "GitLab (DevOps Platform)",
-      "Figma (Design Collaboration)",
-      "Postman (API Development)",
-      "Swagger (API Documentation)"
+    "webTechnologies": [
+      "HTTP/HTTPS Protocols",
+      "RESTful Architecture",
+      "JSON (Data Interchange Format)",
+      "AJAX (Asynchronous JavaScript)",
+      "Fetch API and Axios",
+      "CORS (Cross-Origin Resource Sharing)",
+      "Web Storage (LocalStorage, SessionStorage)",
+      "Cookies and Session Management",
+      "Web Performance Optimization",
+      "SEO (Search Engine Optimization) Basics",
+      "Web Standards and W3C Compliance",
+      "Browser Developer Tools"
     ],
-    "softSkills": [
-      "Problem Solving and Analytical Thinking",
+    "agileDevelopment": [
+      "Agile Methodologies",
+      "Scrum Framework",
+      "Sprint Planning and Execution",
       "Cross-Functional Team Collaboration",
-      "Technical Documentation and Communication",
-      "Agile and Scrum Methodologies",
-      "Project Planning and Execution",
-      "Stakeholder Management and Presentation",
-      "Code Review and Mentoring",
-      "Research and Continuous Learning",
-      "Critical Thinking and Decision Making",
+      "Code Review and Pair Programming",
+      "Technical Documentation",
+      "Requirements Gathering",
+      "User Story Creation",
+      "Task Estimation and Planning",
+      "Continuous Improvement",
+      "Communication and Presentation Skills",
+      "Problem-Solving and Analytical Thinking",
       "Time Management and Prioritization",
-      "Leadership and Team Building",
-      "Client Communication and Requirements Gathering",
-      "Presentation and Public Speaking",
-      "Adaptability and Flexibility",
-      "Attention to Detail and Quality Focus",
-      "Strategic Thinking and Planning"
+      "Mentoring and Teaching"
+    ],
+    "additionalSkills": [
+      "SQLAlchemy (Python SQL Toolkit)",
+      "ORM (Object-Relational Mapping)",
+      "State Management (React Context, Redux concepts)",
+      "Component Design Patterns",
+      "Micro-Frontend Architecture concepts",
+      "GraphQL Basics",
+      "Server-Side Rendering (SSR)",
+      "Static Site Generation (SSG)",
+      "Incremental Static Regeneration (ISR)",
+      "Environment Variables Management",
+      "Configuration Management",
+      "Logging and Monitoring Strategies",
+      "Technical Writing and Documentation",
+      "Markdown and Documentation Tools"
     ]
   },
 
   "projects": [
     {
-      "id": "healthcare-ml-risk",
-      "title": "Healthcare ML Risk Prediction System",
+      "id": "rag-chatbot-system",
+      "title": "RAG-Enhanced AI Chatbot System",
       "year": "2025",
-      "category": "machine-learning",
-      "shortDescription": "Machine learning models to identify high-risk individuals for chronic conditions, achieving 22% improvement in early intervention accuracy.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>22% Accuracy Boost</span><span class='metric'>Medicare Advantage</span><span class='metric'>XGBoost + TensorFlow</span><span class='metric'>Production-Ready</span></div><br/>Engineered comprehensive machine learning models using scikit-learn, XGBoost, and TensorFlow to identify high-risk individuals for chronic conditions across Medicare Advantage plans. Built end-to-end NLP pipelines using Hugging Face Transformers and spaCy to extract structured information (diagnoses, medications, symptoms) from unstructured physician notes. Fine-tuned domain-specific large language models for automating clinical summary generation and insurance claims review workflows. Implemented complete MLOps infrastructure integrating MLflow for experiment tracking, DVC for dataset versioning, and Jenkins for automated model retraining. Deployed production-grade models using FastAPI and TensorFlow Serving on AWS SageMaker with scalable CI/CD pipelines via GitHub Actions. Results: 22% improvement in early intervention accuracy, 40% reduction in manual processing time, full HIPAA compliance, and real-time support for clinical decision-making tools.",
+      "category": "genai",
+      "shortDescription": "Context-aware AI chatbot with vector search using RAG pipeline, FastAPI backend, and streaming LLM responses.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>RAG Pipeline</span><span class='metric'>Vector Search</span><span class='metric'>Streaming Responses</span><span class='metric'>Production Ready</span></div><br/>Architected and developed a comprehensive RAG (Retrieval-Augmented Generation) chatbot system combining vector search with large language models for context-aware responses. Built robust backend using FastAPI with streaming endpoints for low-latency AI interactions. Integrated multiple vector databases (Pinecone, Weaviate) for semantic search and context retrieval. Implemented advanced prompt engineering techniques including few-shot learning and chain-of-thought reasoning. Utilized Supabase for PostgreSQL database management, storing conversation history and user preferences. Created efficient embedding pipeline using OpenAI and Hugging Face models for document indexing. Deployed with Docker containers and implemented caching strategies for improved performance. Results: Achieved sub-second response times, high context relevance, and scalable architecture supporting multiple concurrent users.",
       "media": {
         "type": "image",
-        "src": "images/healthcare-ml-risk.svg",
+        "src": "images/rag-chatbot-system.png",
         "poster": null
       },
       "techStack": [
-        "scikit-learn",
-        "XGBoost",
-        "TensorFlow",
-        "Hugging Face Transformers",
-        "spaCy",
-        "AWS SageMaker",
-        "MLflow",
-        "DVC",
+        "Python",
         "FastAPI",
-        "Jenkins",
-        "GitHub Actions"
+        "OpenAI API",
+        "Claude API",
+        "Pinecone",
+        "Weaviate",
+        "Supabase",
+        "PostgreSQL",
+        "Docker",
+        "Vector Embeddings",
+        "RAG",
+        "Streaming APIs"
       ],
       "metrics": [
-        {"value": "22%", "label": "Accuracy Improvement"},
-        {"value": "40%", "label": "Processing Reduction"},
-        {"value": "HIPAA", "label": "Compliant"}
+        {"value": "Sub-second", "label": "Response Time"},
+        {"value": "RAG", "label": "Architecture"},
+        {"value": "High", "label": "Context Accuracy"}
       ],
       "links": {
         "website": null,
@@ -483,32 +315,36 @@
       "isExpandable": true
     },
     {
-      "id": "behavioral-health-chatbot",
-      "title": "Behavioral Health AI Chatbot",
+      "id": "fullstack-llm-app",
+      "title": "AI-Powered Full Stack Application",
       "year": "2025",
       "category": "genai",
-      "shortDescription": "Azure-based AI chatbot delivering personalized behavioral health support, reducing user dropout rates by 25%.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>25% Dropout Reduction</span><span class='metric'>40% Relevance Boost</span><span class='metric'>87% Detection Precision</span><span class='metric'>Azure AI</span></div><br/>Developed comprehensive AI-powered chatbot on Microsoft Azure using Copilot Studio and Bot Framework to deliver personalized behavioral health support. Trained CLU (Conversational Language Understanding) and CQA (Custom Question Answering) models in Azure AI Language Studio to classify user intent across five behavioral change stages. Streamlined AI model lifecycle and secured data workflows using Azure Foundry. Designed reusable prompt templates and advanced chaining logic to align chatbot dialogue with user behavioral stage. Orchestrated dynamic multi-step conversation flows and integrated 3+ external APIs for personalized response generation. Constructed language understanding pipelines to detect substance use indicators and symptoms with 87% precision. Deployed models via Azure Foundry with secure API endpoints ensuring scalable 24/7 access for 10K+ monthly users. Results: 25% reduction in user dropout, 40% improvement in interaction relevance, 87% precision in early detection, and 30% faster deployment time.",
+      "shortDescription": "Modern full-stack application with LLM integration, React/Next.js frontend, and secure API workflows with RBAC.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Next.js Frontend</span><span class='metric'>LLM Integration</span><span class='metric'>RBAC Security</span><span class='metric'>Cloud Deployed</span></div><br/>Developed production-ready full-stack web application integrating multiple LLM APIs (OpenAI, Claude, Gemini) with modern frontend technologies. Built responsive, accessible UI using React and Next.js with TypeScript for type safety. Implemented server-side rendering (SSR) and static site generation (SSG) for optimal performance and SEO. Created secure backend using Node.js and FastAPI with RESTful API architecture. Integrated Role-Based Access Control (RBAC) ensuring data privacy and security compliance. Implemented advanced prompt engineering for context-aware AI features and intelligent user interactions. Utilized Supabase for real-time database synchronization and authentication. Deployed to AWS and Vercel with CI/CD pipelines using GitHub Actions. Added comprehensive monitoring, error tracking, and performance optimization. Results: Scalable architecture, secure authentication, fast loading times, and seamless AI-powered user experience.",
       "media": {
         "type": "image",
-        "src": "images/behavioral-health-chatbot.svg",
+        "src": "images/neural-network-optimization.png",
         "poster": null
       },
       "techStack": [
-        "Azure Copilot Studio",
-        "Azure Bot Framework",
-        "Azure AI Language Studio",
-        "Azure Foundry",
-        "CLU Models",
-        "CQA Models",
-        "Prompt Engineering",
-        "API Integration",
-        "Microsoft Fabric"
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "FastAPI",
+        "OpenAI",
+        "Claude",
+        "Supabase",
+        "AWS",
+        "Vercel",
+        "GitHub Actions",
+        "RBAC",
+        "Docker"
       ],
       "metrics": [
-        {"value": "25%", "label": "Dropout Reduction"},
-        {"value": "87%", "label": "Detection Precision"},
-        {"value": "10K+", "label": "Monthly Users"}
+        {"value": "Production", "label": "Grade"},
+        {"value": "RBAC", "label": "Security"},
+        {"value": "Multi-LLM", "label": "Integration"}
       ],
       "links": {
         "website": null,
@@ -518,31 +354,34 @@
       "isExpandable": true
     },
     {
-      "id": "automated-proposal-tool",
-      "title": "Automated Proposal Generation Tool",
+      "id": "interactive-learning-platform",
+      "title": "Interactive Learning Platform",
       "year": "2025",
-      "category": "genai",
-      "shortDescription": "Multi-agent AI system using Autogen and RAG for automated proposal drafting, improving accuracy and speed by 50%.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>50% Speed Boost</span><span class='metric'>35% Hallucination Reduction</span><span class='metric'>40% Cost Savings</span><span class='metric'>Multi-Agent AI</span></div><br/>Led development of automated proposal drafting tool using Azure Foundry, Microsoft Fabric, and Autogen for intelligent document generation. Architected five-phase agent framework using Autogen and RAG (Retrieval-Augmented Generation) for automated document analysis and synthesis. Implemented tiered deployment strategy using GPT-4.1 for complex reasoning and o4-mini for routine tasks, with advanced prompt optimization. Developed multi-agent research pipeline using dynamic context injection and advanced prompt engineering techniques. Built comprehensive RAG system integrating vector databases for relevant information retrieval and context-aware generation. Created feedback loops and quality assurance mechanisms to ensure output accuracy and relevance. Results: 50% improvement in accuracy and speed, 35% reduction in LLM hallucinations, 40% reduction in inference costs, 45% faster response time, and significant time savings in proposal creation workflows.",
+      "category": "fullstack",
+      "shortDescription": "Responsive web application for student learning with real-time features, API integration, and modern UI/UX.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>40+ Students</span><span class='metric'>Real-Time Features</span><span class='metric'>Responsive Design</span><span class='metric'>React Application</span></div><br/>Designed and developed interactive learning platform supporting 40+ students with hands-on web development exercises and real-time collaboration features. Built with React.js for dynamic component-based architecture and state management. Implemented responsive design using CSS3 Flexbox, Grid, and mobile-first approach ensuring seamless experience across devices. Created comprehensive DOM manipulation exercises and API integration tutorials. Developed backend REST APIs using Express.js and Python Flask for data management and user authentication. Integrated real-time features using WebSockets for live coding sessions and instant feedback. Implemented progress tracking system storing user data in PostgreSQL database. Added accessibility features following WCAG standards with ARIA labels and keyboard navigation. Deployed on cloud platforms with automated CI/CD pipelines. Results: Enhanced student engagement, improved learning outcomes by 30%, positive feedback on user experience and functionality.",
       "media": {
         "type": "image",
         "src": "images/automated-proposal-tool.svg",
         "poster": null
       },
       "techStack": [
-        "Autogen",
-        "RAG (Retrieval-Augmented Generation)",
-        "Azure Foundry",
-        "Microsoft Fabric",
-        "GPT-4.1",
-        "Vector Databases",
-        "Prompt Engineering",
-        "Multi-Agent Systems"
+        "React.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "REST APIs",
+        "WebSockets",
+        "Responsive Design",
+        "Git/GitHub"
       ],
       "metrics": [
-        {"value": "50%", "label": "Speed Improvement"},
-        {"value": "35%", "label": "Hallucination Reduction"},
-        {"value": "40%", "label": "Cost Savings"}
+        {"value": "40+", "label": "Active Users"},
+        {"value": "30%", "label": "Success Improvement"},
+        {"value": "Mobile", "label": "Responsive"}
       ],
       "links": {
         "website": null,
@@ -552,31 +391,35 @@
       "isExpandable": true
     },
     {
-      "id": "bird-detection-system",
-      "title": "Bird Detection & Classification System",
-      "year": "2024",
-      "category": "machine-learning",
-      "shortDescription": "LLM-integrated bird detection system using YOLOv8 for localization and EfficientNet for species identification.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>YOLOv8</span><span class='metric'>EfficientNet B0</span><span class='metric'>25% Faster Inference</span><span class='metric'>LLM Integration</span></div><br/>Engineered and implemented comprehensive LLM-integrated bird detection and classification system for agricultural and ecological applications. Developed real-time bird localization pipeline using YOLOv8 (You Only Look Once) state-of-the-art object detection architecture. Implemented precise species identification using EfficientNet B0 transfer learning approach. Pioneered innovative LLM integration using GPT-2 to provide detailed species-specific deterrent strategies and contextual information. Integrated Gradio framework for intuitive user interface accessible to non-technical users. Optimized end-to-end pipeline through model quantization, inference optimization, and caching strategies, reducing inference time by 25%. Created comprehensive evaluation framework including precision, recall, F1-score, and real-world validation. Deployed production-ready system with REST API endpoints for integration with existing agricultural management systems.",
+      "id": "cloud-deployed-webapp",
+      "title": "Cloud-Deployed Web Application",
+      "year": "2025",
+      "category": "fullstack",
+      "shortDescription": "Production-grade web app with AWS deployment, Docker containerization, and automated CI/CD pipeline.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>AWS Deployment</span><span class='metric'>Docker</span><span class='metric'>CI/CD Pipeline</span><span class='metric'>Auto-Scaling</span></div><br/>Built and deployed enterprise-grade web application on AWS cloud infrastructure with complete DevOps automation. Architected scalable backend using Node.js and FastAPI with load balancing and auto-scaling capabilities. Created Docker containers for consistent deployment across development, staging, and production environments. Implemented comprehensive CI/CD pipeline using GitHub Actions automating testing, building, and deployment processes. Deployed frontend to AWS S3 with CloudFront CDN for global content delivery and improved performance. Configured backend on AWS EC2 instances with Elastic Load Balancer for high availability. Set up PostgreSQL database on AWS RDS with automated backups and multi-AZ deployment. Implemented monitoring and logging using AWS CloudWatch for real-time application health tracking. Added security best practices including HTTPS, IAM roles, security groups, and encrypted data storage. Results: 99.9% uptime, automated deployments reducing manual errors, scalable infrastructure handling traffic spikes efficiently.",
       "media": {
         "type": "image",
         "src": "images/bird-detection-system.svg",
         "poster": null
       },
       "techStack": [
-        "YOLOv8",
-        "EfficientNet B0",
-        "GPT-2",
-        "PyTorch",
-        "Gradio",
-        "OpenCV",
-        "Transfer Learning",
-        "REST APIs"
+        "React.js",
+        "Node.js",
+        "FastAPI",
+        "AWS EC2",
+        "AWS S3",
+        "AWS RDS",
+        "Docker",
+        "GitHub Actions",
+        "CI/CD",
+        "PostgreSQL",
+        "Nginx",
+        "CloudFront"
       ],
       "metrics": [
-        {"value": "Real-time", "label": "Detection"},
-        {"value": "25%", "label": "Faster Inference"},
-        {"value": "Production", "label": "Ready"}
+        {"value": "99.9%", "label": "Uptime"},
+        {"value": "Automated", "label": "CI/CD"},
+        {"value": "Scalable", "label": "Architecture"}
       ],
       "links": {
         "website": null,
@@ -586,30 +429,34 @@
       "isExpandable": true
     },
     {
-      "id": "custom-gpt-transcripts",
-      "title": "Custom GPT for Call Transcript Analysis",
-      "year": "2024",
+      "id": "vector-database-app",
+      "title": "Vector Database Application",
+      "year": "2025",
       "category": "genai",
-      "shortDescription": "Fine-tuned transformer models on enterprise call data for knowledge extraction and intelligent summarization.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>Custom GPT</span><span class='metric'>Mistral LLM</span><span class='metric'>Knowledge Extraction</span><span class='metric'>Enterprise NLP</span></div><br/>Built custom GPT model and fine-tuned transformer-based language models on enterprise call transcript data for automated knowledge extraction and summarization. Implemented Mistral LLM chatbot for varied NLP tasks including summarization, entity extraction, sentiment analysis, and information retrieval. Developed end-to-end NLP pipelines for processing unstructured conversational data at scale. Optimized model performance through advanced prompt engineering, few-shot learning, and domain-specific fine-tuning strategies. Created evaluation framework measuring summary quality, factual accuracy, and business relevance. Integrated LLM capabilities into existing analytics workflows and business intelligence dashboards. Deployed scalable inference infrastructure supporting high-volume transcript processing. Implemented feedback mechanisms for continuous model improvement based on user interactions and business outcomes.",
+      "shortDescription": "Semantic search application using vector embeddings, Pinecone/Weaviate, and LLM-powered query understanding.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Vector Search</span><span class='metric'>Semantic Matching</span><span class='metric'>LLM Integration</span><span class='metric'>High Performance</span></div><br/>Developed advanced semantic search application leveraging vector databases for intelligent information retrieval. Implemented vector embedding pipeline using OpenAI and Hugging Face models converting text to high-dimensional vectors. Integrated Pinecone and Weaviate vector databases for efficient similarity search and retrieval. Created preprocessing pipeline handling document ingestion, chunking, and embedding generation at scale. Built FastAPI backend exposing REST endpoints for search queries and document management. Implemented hybrid search combining vector similarity with traditional keyword matching for improved accuracy. Added LLM-powered query understanding improving search intent recognition and relevance. Created React frontend with real-time search suggestions and result visualization. Optimized indexing and query performance through batching, caching, and efficient vector operations. Deployed with Docker and Kubernetes for horizontal scaling. Results: Sub-100ms query latency, high relevance scores, ability to handle millions of documents efficiently.",
       "media": {
         "type": "image",
-        "src": "images/custom-gpt-transcripts.svg",
+        "src": "images/healthcare-ml-risk.svg",
         "poster": null
       },
       "techStack": [
-        "GPT (Custom Fine-Tuned)",
-        "Mistral LLM",
-        "Hugging Face Transformers",
-        "Prompt Engineering",
-        "NLP Pipelines",
-        "Entity Extraction",
-        "Sentiment Analysis"
+        "Python",
+        "FastAPI",
+        "Pinecone",
+        "Weaviate",
+        "OpenAI Embeddings",
+        "Hugging Face",
+        "React.js",
+        "Docker",
+        "Kubernetes",
+        "Vector Search",
+        "Semantic Matching"
       ],
       "metrics": [
-        {"value": "Custom", "label": "GPT Model"},
-        {"value": "Enterprise", "label": "Scale"},
-        {"value": "Multi-task", "label": "NLP"}
+        {"value": "<100ms", "label": "Query Speed"},
+        {"value": "High", "label": "Relevance"},
+        {"value": "Millions", "label": "Documents"}
       ],
       "links": {
         "website": null,
@@ -619,96 +466,106 @@
       "isExpandable": true
     },
     {
-      "id": "document-classification",
-      "title": "AI Document Classification System",
-      "year": "2023",
-      "category": "machine-learning",
-      "shortDescription": "CNN+LSTM hybrid architecture for automated document categorization achieving 92% accuracy.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>92% Accuracy</span><span class='metric'>CNN + LSTM</span><span class='metric'>Document AI</span><span class='metric'>Production Deploy</span></div><br/>Developed comprehensive AI-powered document classification model automating categorization of enterprise records with 92% accuracy. Implemented hybrid deep learning architecture combining Convolutional Neural Networks (CNN) for feature extraction and Long Short-Term Memory (LSTM) networks for sequential pattern recognition. Applied recursive feature selection techniques for document understanding using LLM-based prompts to enhance model interpretability. Built end-to-end document processing pipeline including preprocessing, OCR integration, feature extraction, model training, and deployment. Optimized deep learning architectures through systematic hyperparameter tuning and neural architecture search. Created comprehensive evaluation framework with cross-validation, confusion matrices, and production monitoring. Deployed production system automating manual document workflows, achieving substantial time and cost savings. Integrated with enterprise document management systems via REST APIs.",
+      "id": "salesforce-crm-automation",
+      "title": "Salesforce CRM Automation",
+      "year": "2022",
+      "category": "enterprise",
+      "shortDescription": "Enterprise CRM solution with Lightning Web Components, Apex triggers, and third-party API integration.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Lightning Web Components</span><span class='metric'>Apex Triggers</span><span class='metric'>API Integration</span><span class='metric'>Business Automation</span></div><br/>Developed comprehensive Salesforce CRM automation solution enhancing business processes and user productivity. Built modern Lightning Web Components (LWC) creating responsive, reusable UI components following best practices. Implemented complex Apex triggers enforcing business rules, data validation, and automated workflows. Wrote extensive Apex test classes achieving 95%+ code coverage ensuring production readiness. Created Salesforce Flows automating repetitive tasks including lead assignment, opportunity management, and notifications. Integrated third-party services via REST APIs enabling data synchronization and extended functionality. Implemented SOQL queries optimizing database access and improving application performance. Created validation rules ensuring data quality and preventing invalid data entry. Built custom reports and dashboards providing business insights and KPI tracking. Followed Salesforce development best practices including governor limits, bulkification, and security. Results: Automated manual processes saving significant time, improved data accuracy, enhanced user experience with modern UI components.",
       "media": {
         "type": "image",
         "src": "images/document-classification.svg",
         "poster": null
       },
       "techStack": [
-        "CNN (Convolutional Neural Networks)",
-        "LSTM (Long Short-Term Memory)",
-        "TensorFlow",
-        "Keras",
-        "OCR (Optical Character Recognition)",
-        "Feature Engineering",
-        "LLM Prompts",
-        "REST APIs"
-      ],
-      "metrics": [
-        {"value": "92%", "label": "Accuracy"},
-        {"value": "Hybrid", "label": "CNN+LSTM"},
-        {"value": "Production", "label": "Deployed"}
-      ],
-      "links": {
-        "website": null,
-        "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
-    },
-    {
-      "id": "financial-chatbot",
-      "title": "Financial Advice Conversational AI",
-      "year": "2022",
-      "category": "genai",
-      "shortDescription": "Conversational AI chatbot for financial advice, reducing customer query response time by 15%.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>15% Response Reduction</span><span class='metric'>Conversational AI</span><span class='metric'>NLP</span><span class='metric'>Customer Support</span></div><br/>Created comprehensive conversational AI chatbot for automated financial advice and customer support. Implemented natural language understanding pipeline for intent classification, entity extraction, and dialogue management. Developed context-aware response generation system providing personalized financial guidance. Integrated with backend systems for real-time account information, transaction history, and financial product recommendations. Built robust error handling and fallback mechanisms ensuring graceful degradation and human handoff when needed. Optimized response quality through prompt engineering and fine-tuning on financial domain conversations. Deployed scalable infrastructure supporting high-volume customer interactions with sub-second response times. Implemented comprehensive analytics and monitoring dashboards tracking user satisfaction, conversation success rates, and business impact. Results: 15% reduction in customer query response time, improved customer satisfaction scores, and reduced support team workload.",
-      "media": {
-        "type": "image",
-        "src": "images/financial-chatbot.svg",
-        "poster": null
-      },
-      "techStack": [
-        "Conversational AI",
-        "NLP (Natural Language Processing)",
-        "Intent Classification",
-        "Dialogue Management",
-        "Entity Extraction",
-        "Customer Support AI"
-      ],
-      "metrics": [
-        {"value": "15%", "label": "Response Reduction"},
-        {"value": "24/7", "label": "Availability"},
-        {"value": "High", "label": "Satisfaction"}
-      ],
-      "links": {
-        "website": null,
-        "github": null,
-        "details": "#"
-      },
-      "isExpandable": true
-    },
-    {
-      "id": "fashion-classifier",
-      "title": "Fashion Product Image Classification",
-      "year": "2021",
-      "category": "machine-learning",
-      "shortDescription": "ResNet50-based image classification pipeline for fashion products, increasing recommendation accuracy by 30%.",
-      "detailedDescription": "<div class='project-metrics'><span class='metric'>30% Accuracy Boost</span><span class='metric'>ResNet50</span><span class='metric'>Transfer Learning</span><span class='metric'>Computer Vision</span></div><br/>Designed comprehensive image classification pipeline using pre-trained ResNet50 model to categorize fashion products into various style categories. Implemented transfer learning approach fine-tuning pre-trained ImageNet weights for fashion domain. Developed data preprocessing and augmentation pipeline including resizing, normalization, rotation, flipping, and color jittering to improve model robustness. Created multi-class classification system identifying product categories, styles, colors, and patterns. Optimized model architecture and hyperparameters achieving 30% improvement in product recommendation accuracy. Built and deployed RESTful APIs for serving ML models in production with load balancing and auto-scaling. Integrated with e-commerce platform's recommendation engine and search systems. Implemented comprehensive monitoring and A/B testing framework measuring business impact. Results: 30% increase in product recommendation accuracy, improved search relevance, higher customer engagement, and increased conversion rates.",
-      "media": {
-        "type": "image",
-        "src": "images/fashion-classifier.svg",
-        "poster": null
-      },
-      "techStack": [
-        "ResNet50",
-        "Transfer Learning",
-        "PyTorch",
-        "Computer Vision",
-        "Data Augmentation",
+        "Salesforce",
+        "Lightning Web Components",
+        "Apex",
+        "SOQL",
+        "SOSL",
+        "Salesforce Flows",
         "REST APIs",
-        "A/B Testing"
+        "JavaScript",
+        "Validation Rules",
+        "Apex Testing"
       ],
       "metrics": [
-        {"value": "30%", "label": "Accuracy Increase"},
-        {"value": "ResNet50", "label": "Architecture"},
-        {"value": "Production", "label": "Scale"}
+        {"value": "95%+", "label": "Code Coverage"},
+        {"value": "LWC", "label": "Modern UI"},
+        {"value": "Automated", "label": "Workflows"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "realtime-supabase-app",
+      "title": "Real-Time Database Application",
+      "year": "2025",
+      "category": "fullstack",
+      "shortDescription": "Real-time collaborative app using Supabase, PostgreSQL, and React with live data synchronization.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Real-Time Sync</span><span class='metric'>Supabase</span><span class='metric'>PostgreSQL</span><span class='metric'>Collaborative</span></div><br/>Built real-time collaborative application leveraging Supabase as Backend-as-a-Service for instant data synchronization. Designed normalized PostgreSQL database schema with relationships, indexes, and constraints for data integrity. Implemented Supabase real-time subscriptions enabling live updates across all connected clients without polling. Created authentication system using Supabase Auth with email/password, OAuth providers, and JWT tokens. Built React frontend with hooks managing real-time state updates and optimistic UI rendering. Implemented Row Level Security (RLS) policies in PostgreSQL ensuring users access only authorized data. Created RESTful API endpoints and PostgreSQL functions for complex business logic and data operations. Added file storage using Supabase Storage for user uploads with secure access policies. Implemented caching and optimization strategies reducing database queries and improving performance. Deployed frontend to Vercel with automatic preview deployments for pull requests. Results: Instant data synchronization, secure multi-tenant architecture, seamless collaborative features, positive user feedback on real-time experience.",
+      "media": {
+        "type": "image",
+        "src": "images/behavioral-health-chatbot.svg",
+        "poster": null
+      },
+      "techStack": [
+        "React.js",
+        "Supabase",
+        "PostgreSQL",
+        "JavaScript",
+        "Real-Time Subscriptions",
+        "Row Level Security",
+        "Supabase Auth",
+        "Vercel",
+        "REST APIs",
+        "File Storage"
+      ],
+      "metrics": [
+        {"value": "Real-Time", "label": "Sync"},
+        {"value": "Secure", "label": "Multi-Tenant"},
+        {"value": "Fast", "label": "Performance"}
+      ],
+      "links": {
+        "website": null,
+        "github": null,
+        "details": "#"
+      },
+      "isExpandable": true
+    },
+    {
+      "id": "prompt-engineering-tool",
+      "title": "Prompt Engineering Playground",
+      "year": "2025",
+      "category": "genai",
+      "shortDescription": "Interactive tool for testing and optimizing LLM prompts with multiple AI providers and parameter tuning.",
+      "detailedDescription": "<div class='project-metrics'><span class='metric'>Multi-Provider</span><span class='metric'>Prompt Testing</span><span class='metric'>Parameter Tuning</span><span class='metric'>Comparison Tool</span></div><br/>Created comprehensive prompt engineering tool for testing, comparing, and optimizing prompts across multiple LLM providers. Integrated OpenAI, Claude, Gemini, and Ollama APIs enabling side-by-side comparison of responses. Built intuitive React interface with Monaco Editor for syntax-highlighted prompt editing and templates. Implemented parameter controls for temperature, max tokens, top-p, frequency penalty, and presence penalty. Created prompt template library with examples for few-shot learning, chain-of-thought reasoning, and role-playing. Added prompt versioning system storing history and enabling A/B testing of different variations. Implemented cost calculator tracking token usage and API costs across different providers. Created export functionality generating code snippets in Python, JavaScript, and cURL formats. Built analytics dashboard showing response times, token counts, and quality metrics. Integrated with FastAPI backend handling API key management and rate limiting. Results: Accelerated prompt development workflow, improved prompt quality through systematic testing, cost optimization through provider comparison.",
+      "media": {
+        "type": "image",
+        "src": "images/custom-gpt-transcripts.svg",
+        "poster": null
+      },
+      "techStack": [
+        "React.js",
+        "TypeScript",
+        "FastAPI",
+        "OpenAI",
+        "Claude",
+        "Gemini",
+        "Ollama",
+        "Monaco Editor",
+        "Tailwind CSS",
+        "REST APIs",
+        "Prompt Engineering"
+      ],
+      "metrics": [
+        {"value": "4+", "label": "LLM Providers"},
+        {"value": "Interactive", "label": "Testing"},
+        {"value": "Cost", "label": "Optimizer"}
       ],
       "links": {
         "website": null,
@@ -723,24 +580,25 @@
 
   "education": [
     {
-      "degree": "Master of Science in Artificial Intelligence",
-      "institution": "Yeshiva University",
-      "location": "New York, NY",
-      "year": "Aug 2023 – Dec 2024",
-      "logo": "images/yeshiva-university-logo.png"
+      "degree": "Master of Science in Information Technology",
+      "institution": "Northern Arizona University",
+      "location": "Flagstaff, AZ",
+      "year": "Jan 2024 – May 2025",
+      "gpa": "GPA: 3.64/4.0",
+      "logo": "images/northern-arizona-university-logo.png"
     }
   ],
 
   "siteConfig": {
-    "siteTitle": "Shilpa Kuppili - AI/ML Engineer",
+    "siteTitle": "Mustaq Sohail Shaik - Full Stack Developer & AI Engineer",
     "favicon": null,
     "themeColors": {
-      "primaryRed": "#2E86AB",
-      "lightRed": "#3498DB",
-      "darkRed": "#1B4F72",
-      "textDark": "#2C3E50",
-      "textLight": "#6c757d",
-      "bgLight": "#f8f9fa",
+      "primaryRed": "#0ea5e9",
+      "lightRed": "#38bdf8",
+      "darkRed": "#0284c7",
+      "textDark": "#1e293b",
+      "textLight": "#64748b",
+      "bgLight": "#f8fafc",
       "white": "#ffffff"
     },
     "domain": null,
