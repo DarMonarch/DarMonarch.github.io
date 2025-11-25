@@ -2,71 +2,168 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Technical Skills",
+      "category": "Programming Languages",
       "icon": "fas fa-code",
       "color": "#667eea",
       "skills": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "TypeScript",
-        "React.js",
-        "Node.js",
-        "Express.js",
         "Python",
-        "Flask",
-        "FastAPI",
-        "REST APIs",
-        "PostgreSQL",
+        "C++",
+        "Java",
         "SQL",
-        "Supabase",
-        "Firebase",
-        "AWS",
-        "Azure",
-        "Vercel",
-        "Render",
-        "GitHub Actions",
-        "Docker",
-        "CI/CD",
-        "OpenAl",
-        "Claude",
-        "Gemini",
-        "Ollama",
-        "Hugging Face",
-        "RAG",
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Jupyter Notebook",
-        "Google Colab",
-        "Bootstrap",
-        "Tailwind CSS",
-        "SQLAlchemy"
+        "R",
+        "Shell Scripting"
       ]
     },
     {
-      "category": "Tools & Frameworks",
-      "icon": "fas fa-tools",
+      "category": "AI & Machine Learning",
+      "icon": "fas fa-brain",
       "color": "#764ba2",
       "skills": [
-        "Render",
-        "GitHub Actions",
-        "Docker",
-        "CI/CD",
-        "OpenAl",
-        "Claude",
-        "Gemini",
-        "Ollama",
+        "Supervised & Unsupervised Learning",
+        "Neural Networks",
+        "Transformers",
+        "BERT",
+        "GPT",
+        "CNNs",
+        "RNNs",
+        "LSTM",
+        "Attention Models",
+        "Generative AI",
+        "Reinforcement Learning",
+        "Recommendation Systems"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-layer-group",
+      "color": "#f093fb",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "scikit-learn",
+        "XGBoost",
+        "LightGBM",
         "Hugging Face",
-        "RAG",
-        "Git",
-        "GitHub",
+        "LangChain"
+      ]
+    },
+    {
+      "category": "Data Engineering & Processing",
+      "icon": "fas fa-database",
+      "color": "#4facfe",
+      "skills": [
+        "NumPy",
+        "Pandas",
+        "Apache Spark",
+        "Dask",
+        "Apache Beam",
+        "Feature Engineering",
+        "Data Preprocessing",
+        "Data Augmentation",
+        "ETL/ELT Pipelines"
+      ]
+    },
+    {
+      "category": "Model Deployment & MLOps",
+      "icon": "fas fa-rocket",
+      "color": "#00f2fe",
+      "skills": [
+        "MLflow",
+        "TorchServe",
+        "Docker",
+        "Kubernetes (K8s)",
+        "Kubeflow",
+        "Airflow",
+        "DVC",
+        "Jenkins",
+        "CI/CD Pipelines",
+        "Model Monitoring",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Cloud Platforms",
+      "icon": "fas fa-cloud",
+      "color": "#43e97b",
+      "skills": [
+        "AWS (SageMaker, EC2, Lambda, S3)",
+        "Google Cloud Platform (Vertex AI, BigQuery)",
+        "Microsoft Azure ML"
+      ]
+    },
+    {
+      "category": "Software Engineering & System Design",
+      "icon": "fas fa-cogs",
+      "color": "#fa709a",
+      "skills": [
+        "API Development (FastAPI, Flask)",
+        "Microservices Architecture",
+        "RESTful APIs",
+        "Object-Oriented Design",
+        "Design Patterns",
+        "Version Control (Git, GitHub, GitLab)",
+        "Unit & Integration Testing (PyTest)"
+      ]
+    },
+    {
+      "category": "Data Management & Infrastructure",
+      "icon": "fas fa-server",
+      "color": "#fee140",
+      "skills": [
+        "Snowflake",
+        "Redshift",
+        "Kafka",
+        "Data Versioning"
+      ]
+    },
+    {
+      "category": "Mathematical & Statistical Foundations",
+      "icon": "fas fa-calculator",
+      "color": "#30cfd0",
+      "skills": [
+        "Linear Algebra",
+        "Calculus",
+        "Probability",
+        "Optimization",
+        "Regularization",
+        "Gradient Descent"
+      ]
+    },
+    {
+      "category": "Tools & Technologies",
+      "icon": "fas fa-tools",
+      "color": "#a8edea",
+      "skills": [
+        "Jupyter",
         "VS Code",
-        "Jupyter Notebook",
-        "Google Colab",
-        "Bootstrap",
-        "Tailwind CSS",
-        "SQLAlchemy"
+        "Docker Compose",
+        "Helm",
+        "Prometheus",
+        "Grafana",
+        "ELK Stack"
+      ]
+    },
+    {
+      "category": "Soft Skills & Collaboration",
+      "icon": "fas fa-users",
+      "color": "#d299c2",
+      "skills": [
+        "Cross-functional Collaboration",
+        "Agile/Scrum Methodology",
+        "Technical Documentation",
+        "Research-to-Production Translation",
+        "Analytical Problem Solving",
+        "Stakeholder Communication"
+      ]
+    },
+    {
+      "category": "Operating Systems",
+      "icon": "fas fa-desktop",
+      "color": "#667eea",
+      "skills": [
+        "Windows",
+        "Linux/Unix"
       ]
     }
   ]
