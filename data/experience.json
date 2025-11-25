@@ -2,40 +2,40 @@
   "sectionTitle": "Work Experience",
   "experiences": [
     {
-      "title": "Jr. Full Stack Developer Intern",
-      "company": "Progress Solutions Inc.",
-      "location": "",
-      "period": "August 2025 - Present (Remote)",
+      "title": "Software Engineer",
+      "company": "CitiGroup",
+      "location": "Washington, DC",
+      "period": "December 2024 - Present",
       "type": "Full-time",
       "color": "#667eea",
       "icon": "fas fa-briefcase",
-      "description": "Develop full-stack Al-driven applications integrating LLM and generative Al capabilities for real-world use cases.\nBuild and maintain scalable web applications using React, Next.js, Python, Node.js, and FastAPI.\nIntegrate LLM APIs (OpenAI, Anthropic, Hugging Face) and self-hosted models with advanced prompt engineering and context-aware workflows.\nArchitect and optimize Retrieval-Augmented Generation (RAG) pipelines using vector databases such as Pinecone, Weaviate, and Supabase.\nImplement performance optimization strategies, including API usage monitoring, caching, and streaming for low-latency Al responses.\nApply secure and ethical Al deployment practices by enforcing RBAC, data privacy compliance, and governance policies.\nCollaborate with cross-functional teams to design, test, and deploy Al-enhanced features in an Agile environment.",
+      "description": "Architected and deployed scalable microservices using FastAPI and Python, powering fraud detection systems processing 10K+ transactions per second with 99.9% uptime and real-time validation accuracy improvements.\nIntegrated Kafka with PostgreSQL to build asynchronous event pipelines, ensuring eventual consistency and improving distributed transaction reliability by 35% across core financial data systems.\nDeployed containerized applications through Docker and Kubernetes (EKS), cutting deployment cycles by 40% and achieving consistent rollouts via automated CI/CD pipelines using Jenkins and GitHub Actions.\nImplemented Redis-based caching layers to accelerate API responsiveness during peak loads, lowering average response latency by 30% and increasing throughput under high-concurrency financial workloads.\nPartnered with security and compliance teams to enforce OAuth 2.0 and RBAC authentication, reducing unauthorized access by 35% and achieving full alignment with Company's internal governance standards.\nEngineered RESTful APIs for cross-departmental analytics integration, embedding schema validation and audit logging to enhance data traceability and streamline compliance reporting across five enterprise divisions.\nDesigned PyTest-based automated testing frameworks, boosting test coverage to 90% and reducing post-deployment bugs by 45% during continuous production releases.\nCollaborated with product managers and data scientists to refine fraud detection pipelines, improving model recall by 12% while maintaining sub-second inference latency and optimized MLOps execution.",
       "responsibilities": [],
-      "technologies": []
+      "technologies": ["FastAPI", "Python", "Kafka", "PostgreSQL", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Redis", "OAuth 2.0", "PyTest"]
     },
     {
-      "title": "Teaching Assistant - Web Technologies",
-      "company": "Northern Arizona University",
-      "location": "",
-      "period": "January 2025 - May 2025",
+      "title": "Software Engineer",
+      "company": "Hexaware Technologies",
+      "location": "India",
+      "period": "June 2022 - November 2023",
       "type": "Full-time",
       "color": "#764ba2",
       "icon": "fas fa-briefcase",
-      "description": "Mentored 40+ students in developing responsive, accessible web applications using HTML, CSS, JavaScript, and modern best practices.\nFacilitated weekly live sessions and conducted 1-on-1 troubleshooting to clarify frontend (UI/UX, DOM) and backend (API integration, server logic) concepts.\nDesigned and delivered hands-on technical examples and lab exercises covering DOM manipulation, API requests, browser compatibility, and responsive design principles.\nReviewed and graded 100+ assignments and capstone projects, providing actionable feedback that improved student success rates by 30%.\nCollaborated with faculty to update and modernize the curriculum, adding React fundamentals, Git/GitHub version control, and industry-standard workflows.\nSupported students in debugging, optimizing, and deploying projects, enhancing their problem-solving skills and readiness for real-world development.",
+      "description": "Built high-performance backend services using Java (Spring Boot) and MySQL, optimizing database queries to handle 5M+ daily transactions with 99.95% uptime and sub-200ms response latency.\nRefactored legacy monolithic applications into modular RESTful microservices, enhancing scalability and maintainability while reducing service downtime by 25% through fault isolation and streamlined architecture.\nDeveloped real-time ETL pipelines using Apache Spark and AWS S3, automating data ingestion and improving data refresh rates by 60% for enterprise-scale analytics dashboards.\nConstructed dynamic React.js and TypeScript dashboards integrated with backend APIs, improving client-side rendering speed and enabling real-time monitoring for 500+ enterprise users.\nCollaborated with DevOps teams to automate build and release workflows via Docker and Jenkins, shortening deployment time and maintaining environment parity across production tiers.\nFacilitated Agile sprint planning, retrospectives, and backlog grooming sessions, improving sprint velocity by 20% and maintaining 100% on-time delivery of client milestones.\nConducted peer code reviews using SonarQube and Checkstyle, reducing production defects by 30% while reinforcing consistent code quality and maintainability across distributed engineering teams.",
       "responsibilities": [],
-      "technologies": []
+      "technologies": ["Java", "Spring Boot", "MySQL", "Apache Spark", "AWS S3", "React.js", "TypeScript", "Docker", "Jenkins", "SonarQube"]
     },
     {
-      "title": "Salesforce Developer Intern",
-      "company": "Smart Internz",
-      "location": "",
-      "period": "August 2022 - October 2022",
+      "title": "Software Engineer Associate",
+      "company": "Sage Softtech",
+      "location": "India",
+      "period": "January 2021 - May 2022",
       "type": "Full-time",
       "color": "#f093fb",
       "icon": "fas fa-briefcase",
-      "description": "Developed business automation workflows using Flows and Validation Rules.\nWrote Apex triggers and test classes to enforce custom logic within Salesforce CRM.\nBuilt and deployed Lightning Web Components (LWC) to extend CRM UI.\nIntegrated third-party APIs into Salesforce using REST API endpoints.",
+      "description": "Maintained internal Flask-based web applications automating HR and finance workflows, reducing manual data entry by 55% and saving approximately 30 weekly administrative labor hours.\nEngineered RESTful APIs supporting CRUD operations with ORM-backed MySQL integration, ensuring transactional integrity, strong data validation, and scalable backend performance across multiple enterprise modules.\nAuthored automated unit and integration tests using PyTest, increasing code coverage to 85% and cutting post-release bug occurrences by 35% across production systems.\nMigrated on-premise applications to AWS EC2 and S3, configuring Docker Compose for environment consistency and reducing developer setup time by 60% across distributed teams.\nCollaborated with cross-functional stakeholders to refine business requirements, execute user acceptance testing, and deliver 15+ production-ready releases achieving 98% on-time sprint completion rates.\nEnhanced UI/UX responsiveness of internal dashboards by optimizing asynchronous JavaScript components, improving load performance by 30% and increasing overall employee satisfaction scores in usability surveys.\nIntegrated AWS CloudWatch monitoring and structured logging frameworks, enabling proactive issue detection and decreasing mean time to resolution (MTTR) for production incidents.",
       "responsibilities": [],
-      "technologies": []
+      "technologies": ["Flask", "Python", "MySQL", "PyTest", "AWS EC2", "AWS S3", "Docker Compose", "JavaScript", "AWS CloudWatch"]
     }
   ]
 }

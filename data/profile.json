@@ -1,19 +1,19 @@
 {
   "profile": {
-    "name": "Alex Rivera",
-    "title": "Creative Developer & Digital Designer",
-    "bio": "Crafting beautiful digital experiences at the intersection of design and code."
+    "name": "Mustaq Sohail Shaik",
+    "title": "Software Engineer",
+    "bio": "Software Engineer with 3+ years of experience architecting and deploying intelligent systems that combine machine learning, data engineering, and scalable software design."
   },
   "contact": {
-    "email": "alex.rivera@email.com",
-    "phone": "+1 (555) 234-5678",
-    "githubUsername": "alexrivera",
-    "linkedin": "https://linkedin.com/in/alexrivera",
-    "twitter": "https://twitter.com/alexrivera"
+    "email": "sohailshaik8255@gmail.com",
+    "phone": "+1 (928) 255-7208",
+    "githubUsername": "DarMonarch",
+    "linkedin": "https://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/",
+    "twitter": null
   },
   "siteConfig": {
     "domain": "",
-    "title": "Alex Rivera - Portfolio",
-    "description": "Creative Developer & Digital Designer Portfolio"
+    "title": "Mustaq Sohail Shaik - Software Engineer",
+    "description": "Software Engineer Portfolio - Machine Learning, Data Engineering, Scalable Software Design"
   }
 }
