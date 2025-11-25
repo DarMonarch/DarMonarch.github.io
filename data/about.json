@@ -1,7 +1,10 @@
 {
   "sectionTitle": "About Me",
   "paragraphs": [
-    "I am a passionate developer with a strong background in building innovative solutions."
+    "Software Engineer with 3+ years of experience architecting and deploying intelligent systems that combine machine learning, data engineering, and scalable software design.",
+    "Adept at leveraging Python, TensorFlow, and PyTorch to build production-grade models and deploy them on cloud-native environments such as AWS and GCP.",
+    "Demonstrated success in improving model accuracy, latency, and reliability through robust experimentation, optimization, and MLOps best practices.",
+    "Passionate about bridging research and engineering to deliver AI-driven solutions that enhance automation, insight generation, and user experience at scale."
   ],
   "statistics": [
     {
@@ -11,20 +14,20 @@
       "label": "Years Experience"
     },
     {
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-server",
       "color": "#764ba2",
-      "value": "10+",
-      "label": "Projects"
+      "value": "99.9%",
+      "label": "Uptime Systems"
     },
     {
-      "icon": "fas fa-code",
+      "icon": "fas fa-tachometer-alt",
       "color": "#f093fb",
-      "value": "36+",
-      "label": "Technologies"
+      "value": "10K+",
+      "label": "TPS Processed"
     }
   ],
   "downloadCV": {
-    "href": "/resume.pdf",
+    "href": "/assets/Mustaq_Sohail_Resume.pdf",
     "icon": "fas fa-download",
     "text": "Download Resume"
   }

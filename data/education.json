@@ -2,15 +2,38 @@
   "sectionTitle": "Education",
   "education": [
     {
-      "degree": "Master of Science in Information Technology",
+      "degree": "Masters of Information Technology",
       "institution": "Northern Arizona University",
+      "location": "Flagstaff, AZ",
       "period": "Jan 2024 - May 2025",
-      "description": "Master of Science in Information Technology - GPA: 3.64/4.0",
+      "description": "Masters of Information Technology",
       "achievements": [],
       "color": "#667eea",
       "icon": "fas fa-graduation-cap"
     }
   ],
   "certificationsTitle": "Certifications & Awards",
-  "certifications": []
+  "certifications": [
+    {
+      "name": "Gen AI Foundational Models for NLP & Language Understanding",
+      "issuer": "IBM",
+      "year": "2024",
+      "icon": "fas fa-certificate",
+      "color": "#667eea"
+    },
+    {
+      "name": "Generative AI and LLMs: Architecture and Data Preparation",
+      "issuer": "IBM",
+      "year": "2024",
+      "icon": "fas fa-certificate",
+      "color": "#764ba2"
+    },
+    {
+      "name": "Introduction to Databases for Back-End Development",
+      "issuer": "Meta",
+      "year": "2024",
+      "icon": "fas fa-certificate",
+      "color": "#f093fb"
+    }
+  ]
 }
