@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "Mustaq Sohail Shaik",
+    "href": "#home"
+  },
+  "menuItems": [
+    {
+      "href": "#home",
+      "icon": "fas fa-home",
+      "text": "Home"
+    },
+    {
+      "href": "#about",
+      "icon": "fas fa-user",
+      "text": "About"
+    },
+    {
+      "href": "#experience",
+      "icon": "fas fa-briefcase",
+      "text": "Experience"
+    },
+    {
+      "href": "#projects",
+      "icon": "fas fa-project-diagram",
+      "text": "Projects"
+    },
+    {
+      "href": "#skills",
+      "icon": "fas fa-code",
+      "text": "Skills"
+    },
+    {
+      "href": "#contact",
+      "icon": "fas fa-envelope",
+      "text": "Contact"
+    }
+  ]
+}

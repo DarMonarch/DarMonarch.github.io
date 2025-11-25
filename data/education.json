@@ -1,0 +1,16 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Master of Science in Information Technology",
+      "institution": "Northern Arizona University",
+      "period": "Jan 2024 - May 2025",
+      "description": "Master of Science in Information Technology - GPA: 3.64/4.0",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

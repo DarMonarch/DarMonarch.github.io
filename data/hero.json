@@ -1,0 +1,45 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "Mustaq Sohail Shaik",
+  "title": "Full Stack Developer | Generative Al Learner | Software Developer",
+  "tagline": "Full Stack Developer | Generative Al Learner | Software Developer",
+  "summary": "Welcome to my portfolio",
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "color": "#667eea",
+      "text": "3+ Years Experience"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "color": "#764ba2",
+      "text": "10+ Projects Completed"
+    },
+    {
+      "icon": "fas fa-code",
+      "color": "#f093fb",
+      "text": "36+ Technologies"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "href": "#projects",
+        "type": "primary",
+        "icon": "fas fa-folder-open",
+        "text": "View Projects"
+      },
+      {
+        "href": "#contact",
+        "type": "secondary",
+        "icon": "fas fa-envelope",
+        "text": "Contact Me"
+      }
+    ]
+  },
+  "socialLinks": [],
+  "scrollIndicator": {
+    "text": "Scroll to explore",
+    "icon": "fas fa-chevron-down"
+  }
+}

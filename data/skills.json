@@ -1,0 +1,73 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Flask",
+        "FastAPI",
+        "REST APIs",
+        "PostgreSQL",
+        "SQL",
+        "Supabase",
+        "Firebase",
+        "AWS",
+        "Azure",
+        "Vercel",
+        "Render",
+        "GitHub Actions",
+        "Docker",
+        "CI/CD",
+        "OpenAl",
+        "Claude",
+        "Gemini",
+        "Ollama",
+        "Hugging Face",
+        "RAG",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Jupyter Notebook",
+        "Google Colab",
+        "Bootstrap",
+        "Tailwind CSS",
+        "SQLAlchemy"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "Render",
+        "GitHub Actions",
+        "Docker",
+        "CI/CD",
+        "OpenAl",
+        "Claude",
+        "Gemini",
+        "Ollama",
+        "Hugging Face",
+        "RAG",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Jupyter Notebook",
+        "Google Colab",
+        "Bootstrap",
+        "Tailwind CSS",
+        "SQLAlchemy"
+      ]
+    }
+  ]
+}

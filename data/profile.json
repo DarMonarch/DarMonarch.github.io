@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Alex Rivera",
+    "title": "Creative Developer & Digital Designer",
+    "bio": "Crafting beautiful digital experiences at the intersection of design and code."
+  },
+  "contact": {
+    "email": "alex.rivera@email.com",
+    "phone": "+1 (555) 234-5678",
+    "githubUsername": "alexrivera",
+    "linkedin": "https://linkedin.com/in/alexrivera",
+    "twitter": "https://twitter.com/alexrivera"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Alex Rivera - Portfolio",
+    "description": "Creative Developer & Digital Designer Portfolio"
+  }
+}

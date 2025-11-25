@@ -1,0 +1,237 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "timeseries-forecast",
+      "description": "Practice application demonstrating full-stack development skills",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Java",
+        "Shell"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/timeseries-forecast",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Java"
+      }
+    },
+    {
+      "title": "azure-search-openai-demo",
+      "description": "Full-featured application built as a learning exercise",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "Bicep",
+        "TypeScript",
+        "CSS",
+        "PowerShell",
+        "Shell",
+        "HTML",
+        "Dockerfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/azure-search-openai-demo",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "nhs-prescribing-etl-pipeline",
+      "description": "Learning project built with modern web technologies",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "Shell",
+        "Dockerfile",
+        "CSS"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/nhs-prescribing-etl-pipeline",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "medical-insurance-cost-prediction",
+      "description": "Learning project built with modern web technologies",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/medical-insurance-cost-prediction",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "Time-Reaction-Project",
+      "description": "GitHub repository: Time-Reaction-Project",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/Time-Reaction-Project",
+        "demo": "https://time-reaction-project.vercel.app"
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "Tic-Tac-Toe-Game-Project",
+      "description": "GitHub repository: Tic-Tac-Toe-Game-Project",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "Procfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/Tic-Tac-Toe-Game-Project",
+        "demo": "https://tic-tac-toe-game-project.onrender.com/"
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS"
+      }
+    },
+    {
+      "title": "Tip-Calculator",
+      "description": "GitHub repository: Tip-Calculator",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/Tip-Calculator",
+        "demo": "https://tip-calculator-umber-eight.vercel.app"
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    },
+    {
+      "title": "Portfolio",
+      "description": "GitHub repository: Portfolio",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/Portfolio",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    },
+    {
+      "title": "samplewebsite",
+      "description": "GitHub repository: samplewebsite",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML",
+        "CSS"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/samplewebsite",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    },
+    {
+      "title": "awsweb",
+      "description": "GitHub repository: awsweb",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/DarMonarch/awsweb",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    }
+  ]
+}

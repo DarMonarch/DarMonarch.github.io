@@ -1,0 +1,13 @@
+{
+  "title": "Mustaq Sohail Shaik - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "Mustaq Sohail Shaik",
+  "keywords": "HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, Express.js, Python, Flask, FastAPI, REST APIs, PostgreSQL, SQL, Supabase, Firebase, AWS, Azure, Vercel, Render, GitHub Actions, Docker, CI/CD, OpenAl, Claude, Gemini, Ollama, Hugging Face, RAG, Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Bootstrap, Tailwind CSS, SQLAlchemy",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "sectionTitle": "About Me",
+  "paragraphs": [
+    "I am a passionate developer with a strong background in building innovative solutions."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-briefcase",
+      "color": "#667eea",
+      "value": "3+",
+      "label": "Years Experience"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "color": "#764ba2",
+      "value": "10+",
+      "label": "Projects"
+    },
+    {
+      "icon": "fas fa-code",
+      "color": "#f093fb",
+      "value": "36+",
+      "label": "Technologies"
+    }
+  ],
+  "downloadCV": {
+    "href": "/resume.pdf",
+    "icon": "fas fa-download",
+    "text": "Download Resume"
+  }
+}

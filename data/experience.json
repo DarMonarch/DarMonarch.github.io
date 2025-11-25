@@ -1,0 +1,41 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Jr. Full Stack Developer Intern",
+      "company": "Progress Solutions Inc.",
+      "location": "",
+      "period": "August 2025 - Present (Remote)",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "Develop full-stack Al-driven applications integrating LLM and generative Al capabilities for real-world use cases.\nBuild and maintain scalable web applications using React, Next.js, Python, Node.js, and FastAPI.\nIntegrate LLM APIs (OpenAI, Anthropic, Hugging Face) and self-hosted models with advanced prompt engineering and context-aware workflows.\nArchitect and optimize Retrieval-Augmented Generation (RAG) pipelines using vector databases such as Pinecone, Weaviate, and Supabase.\nImplement performance optimization strategies, including API usage monitoring, caching, and streaming for low-latency Al responses.\nApply secure and ethical Al deployment practices by enforcing RBAC, data privacy compliance, and governance policies.\nCollaborate with cross-functional teams to design, test, and deploy Al-enhanced features in an Agile environment.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Teaching Assistant - Web Technologies",
+      "company": "Northern Arizona University",
+      "location": "",
+      "period": "January 2025 - May 2025",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "Mentored 40+ students in developing responsive, accessible web applications using HTML, CSS, JavaScript, and modern best practices.\nFacilitated weekly live sessions and conducted 1-on-1 troubleshooting to clarify frontend (UI/UX, DOM) and backend (API integration, server logic) concepts.\nDesigned and delivered hands-on technical examples and lab exercises covering DOM manipulation, API requests, browser compatibility, and responsive design principles.\nReviewed and graded 100+ assignments and capstone projects, providing actionable feedback that improved student success rates by 30%.\nCollaborated with faculty to update and modernize the curriculum, adding React fundamentals, Git/GitHub version control, and industry-standard workflows.\nSupported students in debugging, optimizing, and deploying projects, enhancing their problem-solving skills and readiness for real-world development.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Salesforce Developer Intern",
+      "company": "Smart Internz",
+      "location": "",
+      "period": "August 2022 - October 2022",
+      "type": "Full-time",
+      "color": "#f093fb",
+      "icon": "fas fa-briefcase",
+      "description": "Developed business automation workflows using Flows and Validation Rules.\nWrote Apex triggers and test classes to enforce custom logic within Salesforce CRM.\nBuilt and deployed Lightning Web Components (LWC) to extend CRM UI.\nIntegrated third-party APIs into Salesforce using REST API endpoints.",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ]
+}
