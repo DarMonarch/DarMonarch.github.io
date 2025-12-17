@@ -1,8 +1,8 @@
 {
   "title": "Mustaq Sohail Shaik - Professional Portfolio",
-  "description": "Professional portfolio showcasing my work and experience",
+  "description": "Software Engineer with 3+ years of experience in Machine Learning, Data Engineering, and Scalable Software Design. Expert in Python, TensorFlow, PyTorch, AWS, and GCP.",
   "author": "Mustaq Sohail Shaik",
-  "keywords": "HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, Express.js, Python, Flask, FastAPI, REST APIs, PostgreSQL, SQL, Supabase, Firebase, AWS, Azure, Vercel, Render, GitHub Actions, Docker, CI/CD, OpenAl, Claude, Gemini, Ollama, Hugging Face, RAG, Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Bootstrap, Tailwind CSS, SQLAlchemy",
+  "keywords": "Software Engineer, Machine Learning, AI, Data Engineering, MLOps, Python, TensorFlow, PyTorch, Keras, FastAPI, Flask, AWS, GCP, Azure, Kubernetes, Docker, Kafka, PostgreSQL, MySQL, Redis, Apache Spark, Jenkins, CI/CD, Microservices, RESTful APIs, Transformers, BERT, GPT, Neural Networks, Deep Learning, Generative AI, LangChain, Hugging Face, SageMaker, Cloud Computing, DevOps, Agile, Scrum",
   "ogImage": "/assets/images/og-image.jpg",
   "favicon": "/assets/images/favicon.ico",
   "theme": {
