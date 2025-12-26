@@ -131,7 +131,7 @@ async function loadHero() {
         const socialContainer = document.getElementById('hero-social');
         if (socialContainer && data.socialLinks) {
             socialContainer.innerHTML = data.socialLinks.map(link => `
-                <a href="${link.url}" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="${link.platform}">
+                <a href="${link.href}" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="${link.platform}">
                     <i class="${link.icon}"></i>
                 </a>
             `).join('');
